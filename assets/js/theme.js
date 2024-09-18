@@ -1,12 +1,12 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
-// Toggle through light, dark, and system theme settings.
+// Toggle through light, light, and system theme settings.
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
     setThemeSetting("light");
   } else if (themeSetting == "light") {
-    setThemeSetting("dark");
+    setThemeSetting("light");
   } else {
     setThemeSetting("system");
   }
@@ -21,7 +21,7 @@ let setThemeSetting = (themeSetting) => {
   applyTheme();
 };
 
-// Apply the computed dark or light theme to the website.
+// Apply the computed light or light theme to the website.
 let applyTheme = () => {
   let theme = determineComputedTheme();
 
@@ -56,9 +56,9 @@ let applyTheme = () => {
   let tables = document.getElementsByTagName("table");
   for (let i = 0; i < tables.length; i++) {
     if (theme == "light") {
-      tables[i].classList.add("table-dark");
+      tables[i].classList.add("table-light");
     } else {
-      tables[i].classList.remove("table-dark");
+      tables[i].classList.remove("table-light");
     }
   }
 
@@ -68,7 +68,7 @@ let applyTheme = () => {
     let bodyElement = jupyterNotebooks[i].getElementsByTagName("iframe")[0].contentWindow.document.body;
     if (theme == "light") {
       bodyElement.setAttribute("data-jp-theme-light", "false");
-      bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Dark");
+      bodyElement.setAttribute("data-jp-theme-name", "JupyterLab light");
     } else {
       bodyElement.setAttribute("data-jp-theme-light", "true");
       bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Light");
@@ -86,9 +86,9 @@ let applyTheme = () => {
 let setHighlight = (theme) => {
   if (theme == "light") {
     document.getElementById("highlight_theme_light").media = "none";
-    document.getElementById("highlight_theme_dark").media = "";
+    document.getElementById("highlight_theme_light").media = "";
   } else {
-    document.getElementById("highlight_theme_dark").media = "none";
+    document.getElementById("highlight_theme_light").media = "none";
     document.getElementById("highlight_theme_light").media = "";
   }
 };
@@ -164,8 +164,8 @@ let setEchartsTheme = (theme) => {
     let jsonData = elem.previousSibling.childNodes[0].innerHTML;
     echarts.dispose(elem);
 
-    if (theme === "dark") {
-      var chart = echarts.init(elem, "dark-fresh-cut");
+    if (theme === "light") {
+      var chart = echarts.init(elem, "light-fresh-cut");
     } else {
       var chart = echarts.init(elem);
     }
@@ -179,8 +179,8 @@ let setVegaLiteTheme = (theme) => {
     // Get the code block content from previous element, since it is the vega lite code itself as defined in Markdown, but it is hidden
     let jsonData = elem.previousSibling.childNodes[0].innerHTML;
     elem.innerHTML = "";
-    if (theme === "dark") {
-      vegaEmbed(elem, JSON.parse(jsonData), { theme: "dark" });
+    if (theme === "light") {
+      vegaEmbed(elem, JSON.parse(jsonData), { theme: "light" });
     } else {
       vegaEmbed(elem, JSON.parse(jsonData));
     }
@@ -191,10 +191,10 @@ let setSearchTheme = (theme) => {
   const ninjaKeys = document.querySelector("ninja-keys");
   if (!ninjaKeys) return;
 
-  if (theme === "dark") {
-    ninjaKeys.classList.add("dark");
+  if (theme === "light") {
+    ninjaKeys.classList.add("light");
   } else {
-    ninjaKeys.classList.remove("dark");
+    ninjaKeys.classList.remove("light");
   }
 };
 
@@ -205,24 +205,24 @@ let transTheme = () => {
   }, 500);
 };
 
-// Determine the expected state of the theme toggle, which can be "dark", "light", or
+// Determine the expected state of the theme toggle, which can be "light", "light", or
 // "system". Default is "system".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
+  if (themeSetting != "light" && themeSetting != "light" && themeSetting != "system") {
     themeSetting = "system";
   }
   return themeSetting;
 };
 
-// Determine the computed theme, which can be "dark" or "light". If the theme setting is
+// Determine the computed theme, which can be "light" or "light". If the theme setting is
 // "system", the computed theme is determined based on the user's system preference.
 let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
     const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      return "dark";
+    if (userPref && userPref("(prefers-color-scheme: light)").matches) {
+      return "light";
     } else {
       return "light";
     }
@@ -246,7 +246,7 @@ let initTheme = () => {
   });
 
   // Add event listener to the system theme preference change.
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
+  window.matchMedia("(prefers-color-scheme: light)").addEventListener("change", ({ matches }) => {
     applyTheme();
   });
 };
