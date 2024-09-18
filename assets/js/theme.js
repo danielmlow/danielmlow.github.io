@@ -55,7 +55,7 @@ let applyTheme = () => {
   // Add class to tables.
   let tables = document.getElementsByTagName("table");
   for (let i = 0; i < tables.length; i++) {
-    if (theme == "dark") {
+    if (theme == "light") {
       tables[i].classList.add("table-dark");
     } else {
       tables[i].classList.remove("table-dark");
@@ -66,7 +66,7 @@ let applyTheme = () => {
   let jupyterNotebooks = document.getElementsByClassName("jupyter-notebook-iframe-container");
   for (let i = 0; i < jupyterNotebooks.length; i++) {
     let bodyElement = jupyterNotebooks[i].getElementsByTagName("iframe")[0].contentWindow.document.body;
-    if (theme == "dark") {
+    if (theme == "light") {
       bodyElement.setAttribute("data-jp-theme-light", "false");
       bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Dark");
     } else {
@@ -84,7 +84,7 @@ let applyTheme = () => {
 };
 
 let setHighlight = (theme) => {
-  if (theme == "dark") {
+  if (theme == "light") {
     document.getElementById("highlight_theme_light").media = "none";
     document.getElementById("highlight_theme_dark").media = "";
   } else {
