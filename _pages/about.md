@@ -31,13 +31,13 @@ He has co-founded the Harvard-MIT Speech and Language Biomarker Interest Group w
 
 His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellowship, an NIH NIDCD T32 training grant, the NIH Common Fund Bridge2AI program, an Amelia Peabody Professional Development Award, and a Fundacion Williams grant. 
 
-# education
+# Education
 - 2024 - PhD in Speech and Hearing Bioscience and Technology, Division of Medical Sciences, Harvard University
 - 2018 - MA in Language and Communication Technologies, University of Groningen, Netherlands
 - 2018 - MSc in Cognitive Science, University of Trento, Italy
 - 2015 - BA in Neurolinguistics & Psycholinguistics, University of Buenos Aires, Argentina
 
-# interests
+# Interests
 
 | **methods**                              | **topics**                        |
 |------------------------------------------|-----------------------------------------|
