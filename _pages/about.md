@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: HARVARD UNIVERSITY
+subtitle: Postdoctoral Fellow, Harvard University
 
 profile:
   align: right
