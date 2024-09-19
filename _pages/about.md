@@ -39,7 +39,7 @@ His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellows
 
 # interests
 
-| **Methods**                              | **Topics**                        |
+| **methods**                              | **topics**                        |
 |------------------------------------------|-----------------------------------------|
 | `NLP & generative AI` | `Suicide`                             |
 | `Speech technology`       | `Psychotherapy and peer support`                      |
