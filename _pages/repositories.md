@@ -7,6 +7,11 @@ nav: true
 nav_order: 4
 ---
 
+I developed the Python [construct-tracker](https://github.com/danielmlow/construct-tracker/) package for building lexicons with generative AI for quick interpretable models that measure that measure the constructs you want to measure.  
+
+I contributed to the [pydra-ml](https://github.com/nipype/pydra-ml) package for running and comparing many machine learning models using bootstrapping on parallel processing
+
+
 {% if site.data.repositories.github_users %}
 
 ## GitHub users
