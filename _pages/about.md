@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Harvard University
+subtitle: HARVARD UNIVERSITY
 
 profile:
   align: right
