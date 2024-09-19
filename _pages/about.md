@@ -41,7 +41,8 @@ His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellows
 
 | **Methods**                              | **Topics**                        |
 |------------------------------------------|-----------------------------------------|
-| `Natural language processing & generative AI` | `Suicide`                             |
+| `NLP & generative AI` | `Suicide`                             |
 | `Speech technology`       | `Psychotherapy and peer support`                      |
-| `Machine learning`                         | `Meditation & psychedelics`               |
+| `Machine learning`                         | `Meditation`                |
+| `Psychometrics`                         | `Psychedelics`                            |
 | `Causal inference`                         | `Social media`                            |
