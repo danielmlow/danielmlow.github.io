@@ -9,9 +9,11 @@ profile:
   image: DanielLow-36.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Offices: </p>
-    <p>Kresge Building, 677 Huntington Ave, Boston, 8th floor</p>
-    <p>William James Hall, 33 Kirkland St, Cambridge, office 1210 </p>
+    <p>Epidemiology, Kresge Building</p>
+    <p>&nbsp;677 Huntington Ave, Boston, 8th floor</p>
+    <p>Psychology, William James Hall</p>
+    <p>&nbsp;33 Kirkland St, Cambridge, #1210</p>
+    
     
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,19 +24,23 @@ Daniel Low is a data scientist and mental health researcher. He is a Postdoctora
  
 He completed his PhD in [Speech and Hearing Bioscience and Technology](https://shbtphd.hms.harvard.edu/) at Harvard University, carried out at the [Senseable Intelligence Group](https://sensein.group/) (McGovern Institute for Brain Research, MIT) and was advised by Satrajit Ghosh (MIT, Harvard Medical School). 
  
-His work focuses on using natural language processing and speech processing to predict suicidal thoughts and behaviors and understand the effects of meditation and psychedelics on mental health. He uses data from ecological momentary assessments of hospitalized individuals, social media, and clinical trials. He has co-founded the Harvard-MIT Speech and Language Biomarker Interest Group which organizes talks and discussions in this field. He teaches workshops and courses on machine learning and natural language processing at Harvard and other universities. His work has been funded by a RallyPoint Fellowship, an NIH NIMH T32 training grant, an NIH NIDCD T32 training grant, the NIH Common Fund Bridge2AI program, an Amelia Peabody Professional Development Award, and a Fundacion Williams grant. 
+His work focuses on using natural language processing and speech processing to predict suicidal thoughts and behaviors and understand the effects of meditation and psychedelics on mental health. He uses data from ecological momentary assessments of hospitalized individuals, social media, and clinical trials. 
 
-# Education
+He has co-founded the Harvard-MIT Speech and Language Biomarker Interest Group which organizes talks and discussions in this field. He teaches workshops and courses on machine learning and natural language processing at Harvard and other universities. 
+
+His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellowship, an NIH NIDCD T32 training grant, the NIH Common Fund Bridge2AI program, an Amelia Peabody Professional Development Award, and a Fundacion Williams grant. 
+
+# education
 - 2024 - PhD in Speech and Hearing Bioscience and Technology, Division of Medical Sciences, Harvard University
 - 2018 - MA in Language and Communication Technologies, University of Groningen, Netherlands
 - 2018 - MSc in Cognitive Science, University of Trento, Italy
 - 2015 - BA in Neurolinguistics & Psycholinguistics, University of Buenos Aires, Argentina
 
-# Interests
+# interests
 
 | **Methods**                              | **Topics**                        |
 |------------------------------------------|-----------------------------------------|
-| Natural language processing & generative AI | `Suicide`                                 |
-| `Speech technology`       | Psychotherapy and peer support          |
-| Machine learning                         | `Meditation & psychedelics`               |
-| `Causal inference`                         | Social media                            |
+| `Natural language processing & generative AI` | `Suicide`                             |
+| `Speech technology`       | `Psychotherapy and peer support`                      |
+| `Machine learning`                         | `Meditation & psychedelics`               |
+| `Causal inference`                         | `Social media`                            |
