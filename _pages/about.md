@@ -6,7 +6,7 @@ subtitle: Harvard University
 
 profile:
   align: right
-  image: DanielLow-36.jpg
+  image: # DanielLow-36.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Offices: </p>
