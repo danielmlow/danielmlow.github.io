@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-size: 14px;">Epidemiology, Kresge Building</p>
-    <p style="margin-left: 20px; font-size: 14px;">677 Huntington Ave, Boston, MA 02115, 8th floor</p>
+    <p style="margin-left: 20px; font-size: 14px;">677 Huntington Ave, Boston, MA 02115, #820B</p>
     <p style="font-size: 14px;"> </p>
     <p style="font-size: 14px;">Psychology, William James Hall</p>
     <p style="margin-left: 20px; font-size: 14px;">33 Kirkland St, Cambridge, MA 02138, #1210</p>
