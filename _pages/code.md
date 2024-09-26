@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-I developed the Python [construct-tracker](https://github.com/danielmlow/construct-tracker/) package to the psychological constructs in text of your choosing through a variety of methods. 
+I developed the Python [construct-tracker](https://github.com/danielmlow/construct-tracker/) package to measure the psychological constructs in text of your choosing through a variety of methods. 
 
 I contributed to the [pydra-ml](https://github.com/nipype/pydra-ml) package that can train and compare many machine learning models, validated using bootstrapping (instead of cross-validation) and accelerated through parallel processing.
 
