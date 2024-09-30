@@ -46,3 +46,4 @@ His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellows
 | `Machine learning`                         | `Meditation`                |
 | `Psychometrics`                         | `Psychedelics`                            |
 | `Causal inference`                         | `Social media`                            |
+| `Network science`                         | `Affect`                            |
