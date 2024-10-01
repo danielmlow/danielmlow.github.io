@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /resources/
+title: resources
+description: 
+nav: true
+nav_order: 2
+---
+
 Here are some resources I've put together over the years:
 
 - Data science resources (programming, machine learning, statistics, doing research, etc) ([link](https://docs.google.com/document/d/127Npk6Z2gV-p_ewwnRz7qDyvKKRI6vb6Yg3zKnOw16s/edit?usp=sharing))
