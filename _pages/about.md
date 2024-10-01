@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Postdoctoral Fellow, Harvard University
-
+nav_order: 1
 profile:
   align: right
   image: DanielLow-36.jpg
