@@ -4,7 +4,7 @@ permalink: /resources/
 title: resources
 description: 
 nav: true
-nav_order: 2
+nav_order: 5
 ---
 
 Here are some resources I've put together over the years:
