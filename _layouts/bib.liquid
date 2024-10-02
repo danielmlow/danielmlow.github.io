@@ -96,7 +96,7 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journaltitle}}</em>
+        <em>{{entry.title}}</em>
       {% elsif entry.type == "inproceedings" and entry.conference %}
         <em>Presented in {{entry.eventtitle}}</em>
       {% elsif entry.type == "incollection" %}
