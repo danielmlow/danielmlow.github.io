@@ -16,5 +16,5 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
- {% bibliography -f papers --group_by type %}
+ {% bibliography -f papers %}
 </div>
