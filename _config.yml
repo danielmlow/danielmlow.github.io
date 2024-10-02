@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Daniel
-middle_name: M.
+middle_name: M
 last_name: Low
 email: dlow@g.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -314,7 +314,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Low]
-  first_name: [Daniel, M.]
+  first_name: [Daniel M]
 
   style: apa
   locale: en
@@ -338,7 +338,7 @@ scholar:
   group_order: descending
   sort_by: date
   order: descending
-  type_order: [article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
+  type_order: [article,inproceedings, proceedings, conference, inbook, book, unpublished, misc, report, incollections]
   type_names: {unpublished: working papers, report: reports, article: journal articles, 
         inproceedings: conference articles & others}
 
