@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 Daniel Low is a data scientist and mental health researcher. He is a Postdoctoral Fellow in the [CAUSALab](https://causalab.sph.harvard.edu/) at the Department of Epidemiology at the Harvard T. H. Chan School of Public Health, mentored by Miguel Hernán, and in the [Nock Lab](https://nocklab.fas.harvard.edu/), Department of Psychology at Harvard University, mentored by Matthew Nock, as part of the NIMH T32 grant on Comparative Effectiveness Research for Suicide Prevention. 
  
-He completed his PhD in [Speech and Hearing Bioscience and Technology](https://shbtphd.hms.harvard.edu/) at Harvard University, carried out at the [Senseable Intelligence Group](https://sensein.group/) (McGovern Institute for Brain Research, MIT) and was advised by Satrajit Ghosh (MIT, Harvard Medical School). 
+He completed his PhD in [Speech and Hearing Bioscience and Technology](https://shbtphd.hms.harvard.edu/) at Harvard University, carried out at the [Senseable Intelligence Group](https://sensein.group/) at MIT and was advised by Satrajit Ghosh (MIT, Harvard Medical School). 
  
 His work focuses on using natural language processing and speech processing to predict suicidal thoughts and behaviors and understand the effects of meditation and psychedelics on mental health and affect. He is integrating these methods with psychometrics and causal inference to better measure and intervene on affect and symptoms during clinical and peer conversations. He uses data from ecological momentary assessments of hospitalized individuals, social media, psychotherapy sessions, and clinical trials. 
 
