@@ -25,7 +25,7 @@ Daniel Low is a data scientist and mental health researcher. He is a Postdoctora
  
 He completed his PhD in [Speech and Hearing Bioscience and Technology](https://shbtphd.hms.harvard.edu/) at Harvard University, carried out at the [Senseable Intelligence Group](https://sensein.group/) at MIT and was advised by Satrajit Ghosh (MIT, Harvard Medical School). 
  
-His work focuses on using natural language processing and speech processing to predict suicidal thoughts and behaviors and understand the effects of meditation and psychedelics on mental health and affect. He is integrating these methods with psychometrics and causal inference to better measure and intervene on affect and symptoms during clinical and peer conversations. He uses data from ecological momentary assessments of hospitalized individuals, social media, psychotherapy sessions, and clinical trials. 
+His work focuses on using natural language processing and speech processing, and machine learning to predict suicidal thoughts and behaviors and understand the effects of meditation and psychedelics on mental health and affect. He is integrating these methods with psychometrics and causal inference to better measure and intervene on affect and symptoms during clinical and peer conversations. He uses data from ecological momentary assessments of hospitalized individuals, social media, psychotherapy sessions, and clinical trials. 
 
 He has co-founded the Harvard-MIT Speech and Language Biomarker Interest Group which organizes talks and discussions in this field. He teaches workshops and courses on machine learning and natural language processing at Harvard and other universities. 
 
