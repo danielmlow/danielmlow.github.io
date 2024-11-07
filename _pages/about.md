@@ -27,7 +27,7 @@ He completed his PhD in [Speech and Hearing Bioscience and Technology](https://s
  
 His work focuses on using natural language processing and speech processing, and machine learning to predict suicidal thoughts and behaviors and understand the effects of meditation and psychedelics on mental health and affect. He is integrating these methods with psychometrics and causal inference to better measure and intervene on affect and symptoms during clinical and peer conversations. He uses data from ecological momentary assessments of hospitalized individuals, social media, psychotherapy sessions, and clinical trials. 
 
-He has co-founded the Harvard-MIT Speech and Language Biomarker Interest Group which organizes talks and discussions in this field. He teaches workshops and courses on machine learning and natural language processing at Harvard and other universities. 
+He has co-founded the Harvard-MIT Speech and Language Biomarker Interest Group which organizes talks and discussions in this field ([request to join here)](https://groups.google.com/forum/#!forum/harvard-mit-speech-group/join)). He teaches workshops and [courses](https://danielmlow.github.io/teaching/) on machine learning and natural language processing at Harvard and other universities. 
 
 His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellowship, an NIH NIDCD T32 training grant, the NIH Common Fund Bridge2AI program, an Amelia Peabody Professional Development Award, and a Fundacion Williams grant. 
 
