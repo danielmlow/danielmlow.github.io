@@ -2,18 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientisti
+subtitle: Research Scientist, Child Mind Institute & Visiting Scholar, Harvard University
 nav_order: 1
 profile:
   align: right
   image: cmi-picture-daniel-low-cropped.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 14px;">Epidemiology, Kresge Building</p>
-    <p style="margin-left: 20px; font-size: 14px;">677 Huntington Ave, Boston, MA 02115, #820B</p>
-    <p style="font-size: 14px;"> </p>
-    <p style="font-size: 14px;">Psychology, William James Hall</p>
-    <p style="margin-left: 20px; font-size: 14px;">33 Kirkland St, Cambridge, MA 02138, #1210</p>
+    <p style="font-size: 14px;">Child Mind Institute </p>
+    <p style="margin-left: 20px; font-size: 14px;">215 E 50th St, New York, NY 10022 #408</p>
     
     
 news: false # includes a list of news items
