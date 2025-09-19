@@ -9,8 +9,8 @@ nav_order: 5
 
 <br>
 # Data Science for Mental Health 
-#### Instituto del Cálculo, University of Buenos Aires | November 2024 (upcoming)
-**Visiting Assistant Professor**
+#### Instituto del Cálculo, University of Buenos Aires | November 2024 
+**Visiting Professor**
 
 **Topics:** Psychometrics, NLP, speech processing, causal inference
 

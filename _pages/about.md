@@ -45,14 +45,14 @@ His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellows
 
 # Training
 
-- 2023-2024 - NIMH T32 Postdoctoral Fellowship, Department of Epidemiology, Harvard Chan School of Public Health & Department of Psychology, Harvard University
+- 2023-2024 - NIMH T32 Postdoctoral Fellowship, CAUSALab, Department of Epidemiology, Harvard Chan School of Public Health & Department of Psychology, Harvard University
 
 # Education
 
 - 2024 - PhD in Speech and Hearing Bioscience and Technology, Harvard University
 - 2018 - MA in Language and Communication Technologies, University of Groningen, the Netherlands
 - 2018 - MSc in Cognitive Science, University of Trento, Italy
-- 2015 - BA in Neurolinguistics & Psycholinguistics, University of Buenos Aires, Argentina
+- 2015 - BA in Psycholinguistics & Neurolinguistics, University of Buenos Aires, Argentina
 
 # Interests
 
@@ -63,4 +63,4 @@ His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellows
 | `Machine learning`  | `Meditation`                     |
 | `Psychometrics`     | `Psychedelics`                   |
 | `Causal inference`  | `Social media`                   |
-| `Network science`   | `Affect`                         |
+| `Network science`   | `AI chatbots`                    |
