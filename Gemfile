@@ -26,3 +26,10 @@ group :jekyll_plugins do
     gem 'unicode_utils'
 end
 
+# Other dependencies needed by plugins
+group :other_plugins do
+    gem 'css_parser'
+    gem 'feedjira'
+    gem 'httparty'
+end
+
