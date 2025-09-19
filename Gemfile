@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Core Jekyll gems compatible with Ruby 3.2
-gem 'jekyll', '~> 3.10'
+gem 'jekyll', '~> 4.0'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jemoji'
@@ -19,7 +19,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
-    gem 'jekyll-scholar', '~> 5.16'
+    gem 'jekyll-scholar', '~> 6.0'
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
