@@ -6,17 +6,18 @@ description: #Materials for courses you taught. Replace this text with your desc
 nav: true
 nav_order: 5
 ---
+
 <br>
 # Data Science for Mental Health 
 #### Instituto del Cálculo, University of Buenos Aires | November 2024 (upcoming)
 **Visiting Assistant Professor**
 
-**Topics:** Psychometrics, NLP, speech processing, causal inference 
+**Topics:** Psychometrics, NLP, speech processing, causal inference
 
 <br>
 # PSY 2085 Machine Learning for Psychologists
 #### Psychology Department, Harvard University | Fall 2023 
-**Teaching Fellow.** Helped design the course. Designed and taught two sections per week and designed and graded problem sets, including a kaggle competition. 
+**Teaching Fellow.** Helped design the course. Designed and taught two sections per week and designed and graded problem sets, including a kaggle competition.
 
 **Topics:** Machine learning, NLP, causal machine learning [syllabus](https://drive.google.com/file/d/1bqxnEVFarTLSjsK8lhLhLgc2AzF3_-Uj/view?usp=sharing)
 
@@ -44,7 +45,7 @@ nav_order: 5
 #### Neurotransmitiendo | 2021 - 2023 (4 hs, once a year)
 **Lecturer** for Diploma in Cognitive Neuroscience and Experimental Psychology
 
-**Topics:** Psychometrics, NLP, speech processing, causal inference 
+**Topics:** Psychometrics, NLP, speech processing, causal inference
 
 <br>
 # Neuroscience II and III 

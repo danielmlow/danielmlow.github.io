@@ -6,14 +6,13 @@ nav: true
 nav_order: 4
 ---
 
-I release code and documentation for each manuscript in github repositories. 
+I release code and documentation for each manuscript in github repositories.
 
-I also try to create easy-to-use data science tools for social scientists: 
+I also try to create easy-to-use data science tools for social scientists:
 
-- I developed the Python [construct-tracker](https://github.com/danielmlow/construct-tracker/) package to measure the psychological constructs in text of your choosing through a variety of methods. 
+- I developed the Python [construct-tracker](https://github.com/danielmlow/construct-tracker/) package to measure the psychological constructs in text of your choosing through a variety of methods.
 
 - I contributed to the [pydra-ml](https://github.com/nipype/pydra-ml) package that can train and compare many machine learning models, validated using bootstrapping (instead of cross-validation) and accelerated through parallel processing.
-
 
 {% if site.data.repositories.github_users %}
 
