@@ -1,20 +1,14 @@
 github_users:
-  - danielmlow
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - danielmlow/construct-tracker
-  - danielmlow/tutorials
-  - nipype/pydra-ml
-  - ReproNim/reproschema-library
-  - danielmlow/reddit
-  - danielmlow/review
-  - danielmlow/vfp
-  - danielmlow/rallypoint_suicide_detection
-  - danielmlow/covid19_argentina
-  - danielmlow/covid19_risk
-  - danielmlow/playbook_comments
-  - danielmlow/effective_altruism_chatbot
-
-  
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
