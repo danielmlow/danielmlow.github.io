@@ -6,6 +6,7 @@ gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jemoji'
 gem 'webrick'
+gem 'kramdown-parser-gfm'
 
 # Additional plugins
 group :jekyll_plugins do
