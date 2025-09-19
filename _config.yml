@@ -248,6 +248,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - assets/jupyter/
 keep_files:
   - CNAME
   - .nojekyll
@@ -280,6 +281,7 @@ defaults:
 
 sass:
   style: compressed
+  quiet_deps: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
