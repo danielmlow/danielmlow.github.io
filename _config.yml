@@ -318,7 +318,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Low]
-  first_name: [Daniel, M.]
+  first_name: [Daniel, M., DM, Daniel M]
 
   style: apa
   locale: en

@@ -1,5 +1,18 @@
 # al-folio
 
+
+TLDR:
+- clone https://github.com/alshedivat/al-folio
+- edit _pages to the pages you want to show. You can set other pages to `nav: false` to hide them.
+  - especially about.md
+- edit _config.yml
+- edit bibliography (can download bib from google scholar)
+- edit assets/img to add your images.
+- commit and look at Action.
+
+
+
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
