@@ -8,7 +8,9 @@ TLDR:
 - edit _config.yml
 - edit bibliography (can download bib from google scholar)
 - edit assets/img to add your images.
-- commit and look at Action.
+- edit _data/repositories.yml
+- commit and look at Actions in github repo.
+- there were a few other things cursors AI agent helped me fix for a successful deployment. See repo version history from Sept 20 for final successful version.
 
 
 
