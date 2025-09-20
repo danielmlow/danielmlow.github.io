@@ -16,13 +16,13 @@
             {% endif -%}
           >
             {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr | replace: ' | ', '&#10;' }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div>{{- entry.abbr | replace: ' | ', '&#10;' -}}</div>
             {% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+          <abbr class="badge rounded w-100">{{ entry.abbr | replace: ' | ', '&#10;' }}</abbr>
         {% endif %}
       {% endif %}
       {% if entry.preview %}
