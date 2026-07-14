@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, Child Mind Institute & Visiting Scholar, Harvard University
+subtitle: Research Scientist, Child Mind Institute<br>Visiting Scholar, Harvard University
 nav_order: 1
 profile:
   align: right
@@ -17,17 +17,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Daniel Low is a data scientist and mental health researcher. He is a Research Scientist (tenure-track Principal Investigator) in the DAIR Center at [Child Mind Institute](https://childmind.org/science/) in New York City. He is also a Visiting Scholar in the [Department of Psychology](https://psychology.fas.harvard.edu/) at Harvard University.
+Daniel Low is a data scientist and mental health researcher. He runs [the AI, Risk, and Contemplative Science (ARC) Lab](https://childmind.org/science/advancing-methods/dair/arc-lab/) at [Child Mind Institute](https://childmind.org/science/) in New York City. He is also a Visiting Scholar in the [Department of Psychology](https://psychology.fas.harvard.edu/) at Harvard University.
 
-His work leverages LLMs and causal inference to analyze text and speech data from studies on suicidal thoughts and behaviors, meditation, psychedelics, peer support, and AI chatbots. He uses data from ecological momentary assessments of hospitalized individuals, social media, qualitative interviews, and clinical trials.
+His work leverages LLMs and causal inference to analyze text and speech data from studies on suicidal thoughts and behaviors, meditation, psychedelics, and AI chatbots. He uses data from ecological momentary assessments of hospitalized individuals, social media, qualitative interviews, and clinical trials.
 
-He recently completed a NIMH T32 Postdoctoral Fellowship on causal inference for suicide prevention mentored by [Matthew Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd) (Department of Psychology, Harvard University) and [Miguel Hernán](https://miguelhernan.org/about) (Department of Epidemiology, Harvard Chan School of Public Health) at the [CAUSALab](https://hsph.harvard.edu/research/causalab/). He received his PhD in [Speech and Hearing Bioscience and Technology](https://shbtphd.hms.harvard.edu/) from Harvard University in 2024 under the supervision of [Satrajit Ghosh](https://satra.cogitatum.org/) (MIT). His dissertation focused on detecting dozens of suicide risk factors in text and speech using LLMs, speech processing, and machine learning. His prior training was in Argentina, Italy, and the Netherlands in cognitive science and natural language processing.
+He completed a NIMH T32 Postdoctoral Fellowship on causal inference for suicide prevention mentored by [Matthew Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd) (Department of Psychology, Harvard University) and [Miguel Hernán](https://miguelhernan.org/about) (Department of Epidemiology, Harvard Chan School of Public Health) at the [CAUSALab](https://hsph.harvard.edu/research/causalab/). 
+
+He received his PhD in [Speech and Hearing Bioscience and Technology](https://shbtphd.hms.harvard.edu/) from Harvard University in 2024 under the supervision of [Satrajit Ghosh](https://satra.cogitatum.org/) (MIT). His dissertation focused on detecting dozens of suicide risk factors in text and speech using LLMs, speech processing, and machine learning. His prior training was in Argentina, Italy, and the Netherlands in cognitive science and natural language processing.
 
 He co-founded the [Harvard-MIT Speech and Language Biomarker Interest Group](https://sites.google.com/mit.edu/biomarker-network) which organizes talks and discussions in this field, and he has taught machine learning and natural language processing at Harvard and other universities.
 
 His work has been funded by an NIH NIMH T32 training grant, a RallyPoint Fellowship, an NIH NIDCD T32 training grant, an Amelia Peabody Professional Development Award, a Harvard Psychology Research Innovation Hodgson Fund, and a Fundación Williams grant.
 
-He aspires to leverage AI, causal inference, and first-person experiences to reduce suffering and enhance flourishing in a scalable and equitable way.
+He aspires to leverage AI, causal inference, and first-person phenomenological experiences to reduce suffering and enhance flourishing in a scalable and equitable way.
 
 <!-- Fuss Family Research Fund, Chet and Will Griswold Suicide Prevention Fund, William A. Talley Fund in the Department of Psychology at Harvard University -->
 
